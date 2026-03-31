@@ -1,0 +1,27 @@
+# Unidad 2 - Componentes y Librerías
+
+##  Descripción
+En este repositorio se desarrollan los temas correspondientes a la Unidad 2, los cuales abarcan el uso de componentes, librerías y la creación de elementos reutilizables en programación.
+
+El objetivo es comprender cómo organizar el código de manera eficiente y reutilizable mediante el uso de componentes y paquetes.
+
+---
+
+##  Contenido
+
+###  2.1 Definición conceptual de componentes, paquetes y librerías
+Los componentes son bloques de código reutilizables que permiten dividir un programa en partes más pequeñas y manejables. Estos pueden ser visuales o no visuales.
+
+Las librerías son conjuntos de funciones ya desarrolladas que ayudan a realizar tareas específicas sin tener que programarlas desde cero.
+
+Los paquetes son estructuras que agrupan múltiples módulos o librerías para facilitar su organización y uso.
+
+---
+
+###  2.2 Uso de librerías proporcionadas por el lenguaje
+Los lenguajes de programación incluyen librerías estándar que permiten realizar operaciones comunes como cálculos matemáticos, manejo de fechas, entre otros.
+
+Ejemplo en Python:
+```python
+import math
+print(math.sqrt(25))
